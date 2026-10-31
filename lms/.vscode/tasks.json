@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Configure",
+      "type": "shell",
+      "command": "cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build",
+      "type": "shell",
+      "command": "cmake --build build --config Debug",
+      "dependsOn": "Configure",
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Run tests",
+      "type": "shell",
+      "command": "ctest --test-dir build -C Debug --output-on-failure",
+      "dependsOn": "Build",
+      "group": { "kind": "test", "isDefault": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Create empty database from db/schema.sql (needs sqlite3 CLI)",
+      "type": "shell",
+      "command": "sqlite3 lms.db \".read db/schema.sql\"",
+      "problemMatcher": []
+    }
+  ]
+}

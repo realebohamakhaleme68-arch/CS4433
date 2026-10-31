@@ -1,0 +1,8 @@
+build/
+out/
+lms.db
+lms.db.bak
+submissions/
+*.log
+.vs/
+.cache/

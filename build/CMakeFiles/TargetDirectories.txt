@@ -1,0 +1,6 @@
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/lms_core.dir
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/lms.dir
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/lms_tests.dir
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/test.dir
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build/CMakeFiles/rebuild_cache.dir

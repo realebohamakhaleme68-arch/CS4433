@@ -1,0 +1,17 @@
+{
+  "cmake.configureOnOpen": true,
+  "cmake.generator": "Ninja",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.debugConfig": { "cwd": "${workspaceFolder}" },
+  "cmake.launchCwd": "${workspaceFolder}",
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.arguments": [
+    "--query-driver=C:/msys64/ucrt64/bin/g++.exe",
+    "--compile-commands-dir=${workspaceFolder}/build",
+    "--header-insertion=never"
+  ],
+  "editor.formatOnSave": false,
+  "files.associations": { "*.hpp": "cpp", "*.in": "cpp" },
+  "sqliteExplorer.databasePaths": ["lms.db"]
+}

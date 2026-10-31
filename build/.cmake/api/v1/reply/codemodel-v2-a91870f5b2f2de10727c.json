@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SQLite3::SQLite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQLite3__SQLite3-Debug-179b3a4e920b547497ab.json",
+					"name" : "SQLite3::SQLite3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQLite::SQLite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQLite__SQLite3-Debug-31af9c6e14ff5de30ad1.json",
+					"name" : "SQLite::SQLite3",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-99a74fdd381cf5e91560.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ModeratedLMS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lms-Debug-0b65d2851efe03b270b3.json",
+					"name" : "lms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lms_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lms_core-Debug-6bf6218c239b2d15233f.json",
+					"name" : "lms_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lms_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lms_tests-Debug-6a8b2d4d65341f83ae57.json",
+					"name" : "lms_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+		"source" : "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 12
+	}
+}

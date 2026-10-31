@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\lms.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\lms.dir/objects.a @CMakeFiles\lms.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles\lms.dir/objects.a -Wl,--no-whole-archive -o lms.exe -Wl,--out-implib,liblms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lms.dir\linkLibs.rsp

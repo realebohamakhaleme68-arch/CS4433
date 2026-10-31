@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\util\\TimeUtil.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\util\\TimeUtil.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/util/TimeUtil.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/util/TimeUtil.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\util\\PasswordHasher.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\util\\PasswordHasher.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/util/PasswordHasher.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/util/PasswordHasher.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\util\\InputValidator.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\util\\InputValidator.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/util/InputValidator.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/util/InputValidator.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\domain\\Models.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\domain\\Models.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/domain/Models.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/domain/Models.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\domain\\UserFactory.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\domain\\UserFactory.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/domain/UserFactory.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/domain/UserFactory.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\data\\DatabaseConnection.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\data\\DatabaseConnection.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/data/DatabaseConnection.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/data/DatabaseConnection.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\data\\SQLiteRepositories.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\data\\SQLiteRepositories.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/data/SQLiteRepositories.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/data/SQLiteRepositories.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\service\\Session.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\service\\Session.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/service/Session.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/service/Session.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\service\\Security.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\service\\Security.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/service/Security.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/service/Security.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\service\\AuditLogger.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\service\\AuditLogger.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/service/AuditLogger.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/service/AuditLogger.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\service\\Services.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\service\\Services.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/service/Services.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/service/Services.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\ui\\Console.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\ui\\Console.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/ui/Console.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/ui/Console.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\ui\\Controllers.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\ui\\Controllers.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/ui/Controllers.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/ui/Controllers.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_core.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\lms_core.dir\\src\\ui\\Application.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\ui\\Application.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/ui/Application.cpp",
+  "output": "CMakeFiles/lms_core.dir/src/ui/Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\lms.dir\\src\\main.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\src\\main.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/src/main.cpp",
+  "output": "CMakeFiles/lms.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\lms_tests.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\lms_tests.dir\\tests\\test_main.cpp.obj -c C:\\Users\\user\\Downloads\\LMS_Phase4_Implementation_v4_VSCode\\lms\\tests\\test_main.cpp",
+  "file": "C:/Users/user/Downloads/LMS_Phase4_Implementation_v4_VSCode/lms/tests/test_main.cpp",
+  "output": "CMakeFiles/lms_tests.dir/tests/test_main.cpp.obj"
+}
+]

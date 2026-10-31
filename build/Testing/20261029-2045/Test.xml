@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261029-2045-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.5.0-rc1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-F2VQ3P5"
+	OSRelease="10.0.19045"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="8"
+	ModelName="AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx"
+	ProcessorCacheSize="96"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2176"
+	TotalPhysicalMemory="14237"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2100.000000"
+	>
+	<Testing>
+		<StartDateTime>Oct 31 18:18 South Africa Standard Time</StartDateTime>
+		<StartTestTime>1793463497</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 31 18:18 South Africa Standard Time</EndDateTime>
+		<EndTestTime>1793463497</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
