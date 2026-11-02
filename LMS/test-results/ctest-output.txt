@@ -1,0 +1,44 @@
+Internal ctest changing into directory: /mnt/data/lms_extracted/LMS SOFTWARE ENGINEERING/lms/build-phase5-final
+Test project /mnt/data/lms_extracted/LMS SOFTWARE ENGINEERING/lms/build-phase5-final
+      Start  1: TimeUtil.InvalidLocalDateThrows
+ 1/19 Test  #1: TimeUtil.InvalidLocalDateThrows ...........................................................................   Passed    0.00 sec
+      Start  2: PenaltyStrategy.StandardDeductionUsesMaximumMarkAndStartedDays
+ 2/19 Test  #2: PenaltyStrategy.StandardDeductionUsesMaximumMarkAndStartedDays ............................................   Passed    0.00 sec
+      Start  3: PenaltyStrategy.NoPenaltyStrategyAlwaysReturnsZero
+ 3/19 Test  #3: PenaltyStrategy.NoPenaltyStrategyAlwaysReturnsZero ........................................................   Passed    0.00 sec
+      Start  4: InputValidator.PasswordEquivalencePartitions
+ 4/19 Test  #4: InputValidator.PasswordEquivalencePartitions ..............................................................   Passed    0.00 sec
+      Start  5: InputValidator.UsernameBoundariesAndInvalidCharacters
+ 5/19 Test  #5: InputValidator.UsernameBoundariesAndInvalidCharacters .....................................................   Passed    0.00 sec
+      Start  6: InputValidator.MarkBoundaryAndNonFiniteValues
+ 6/19 Test  #6: InputValidator.MarkBoundaryAndNonFiniteValues .............................................................   Passed    0.00 sec
+      Start  7: InputValidator.ParsingRejectsTrailingAndNonNumericCharacters
+ 7/19 Test  #7: InputValidator.ParsingRejectsTrailingAndNonNumericCharacters ..............................................   Passed    0.00 sec
+      Start  8: UserFactory.CreatesAllFourPolymorphicRolesWithExpectedPermissions
+ 8/19 Test  #8: UserFactory.CreatesAllFourPolymorphicRolesWithExpectedPermissions .........................................   Passed    0.00 sec
+      Start  9: UserFactory.DepartmentRolesRequireDepartment
+ 9/19 Test  #9: UserFactory.DepartmentRolesRequireDepartment ..............................................................   Passed    0.00 sec
+      Start 10: PasswordHasher.SaltedHashVerifiesWithoutStoringPlainText
+10/19 Test #10: PasswordHasher.SaltedHashVerifiesWithoutStoringPlainText ..................................................   Passed    2.51 sec
+      Start 11: LMSIntegration.FullWorkflowAndPersistenceRules
+11/19 Test #11: LMSIntegration.FullWorkflowAndPersistenceRules ............................................................   Passed   10.31 sec
+      Start 12: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <EB-A0 D1-B9 DD-55 00-00 00-00 00-00 00-00 00-00>
+12/19 Test #12: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <EB-A0 D1-B9 DD-55 00-00 00-00 00-00 00-00 00-00> ...   Passed    0.00 sec
+      Start 13: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <B4-A1 D1-B9 DD-55 00-00 01-00 00-00 00-00 00-00>
+13/19 Test #13: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <B4-A1 D1-B9 DD-55 00-00 01-00 00-00 00-00 00-00> ...   Passed    0.00 sec
+      Start 14: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <9F-A1 D1-B9 DD-55 00-00 01-00 00-00 00-00 00-00>
+14/19 Test #14: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <9F-A1 D1-B9 DD-55 00-00 01-00 00-00 00-00 00-00> ...   Passed    0.00 sec
+      Start 15: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <8A-A1 D1-B9 DD-55 00-00 02-00 00-00 A4-7F 00-00>
+15/19 Test #15: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <8A-A1 D1-B9 DD-55 00-00 02-00 00-00 A4-7F 00-00> ...   Passed    0.00 sec
+      Start 16: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <75-A1 D1-B9 DD-55 00-00 03-00 00-00 FE-7F 00-00>
+16/19 Test #16: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <75-A1 D1-B9 DD-55 00-00 03-00 00-00 FE-7F 00-00> ...   Passed    0.00 sec
+      Start 17: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <60-A1 D1-B9 DD-55 00-00 03-00 00-00 DD-55 00-00>
+17/19 Test #17: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <60-A1 D1-B9 DD-55 00-00 03-00 00-00 DD-55 00-00> ...   Passed    0.00 sec
+      Start 18: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <4B-A1 D1-B9 DD-55 00-00 04-00 00-00 FE-7F 00-00>
+18/19 Test #18: UT01/DaysLateTest.MatchesBoundaryTable/16-byte object <4B-A1 D1-B9 DD-55 00-00 04-00 00-00 FE-7F 00-00> ...   Passed    0.00 sec
+      Start 19: lms_legacy
+19/19 Test #19: lms_legacy ................................................................................................   Passed   10.12 sec
+
+100% tests passed, 0 tests failed out of 19
+
+Total Test time (real) =  23.01 sec

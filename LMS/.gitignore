@@ -1,0 +1,11 @@
+build/
+out/
+lms.db
+lms.db.bak
+submissions/
+*.log
+.vs/
+.cache/
+build-*/
+build-phase5*/
+build-coverage/

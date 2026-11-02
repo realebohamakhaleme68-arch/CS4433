@@ -1,0 +1,11 @@
+Business logic — service + domain: 388/505 = 76.83%
+  domain/Models.cpp: 28/45 = 62.22%
+  domain/UserFactory.cpp: 12/13 = 92.31%
+  service/AuditLogger.cpp: 11/11 = 100.00%
+  service/Security.cpp: 23/29 = 79.31%
+  service/Services.cpp: 304/394 = 77.16%
+  service/Session.cpp: 10/13 = 76.92%
+Utilities — reported separately: 188/195 = 96.41%
+  util/InputValidator.cpp: 47/48 = 97.92%
+  util/PasswordHasher.cpp: 81/85 = 95.29%
+  util/TimeUtil.cpp: 60/62 = 96.77%
